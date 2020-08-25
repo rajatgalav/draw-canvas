@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/draw-canvas/static/css/main.7633b595.chunk.css",
+    "main.js": "/draw-canvas/static/js/main.4cbed46b.chunk.js",
+    "main.js.map": "/draw-canvas/static/js/main.4cbed46b.chunk.js.map",
+    "runtime-main.js": "/draw-canvas/static/js/runtime-main.67dfe2c2.js",
+    "runtime-main.js.map": "/draw-canvas/static/js/runtime-main.67dfe2c2.js.map",
+    "static/js/2.c0c96937.chunk.js": "/draw-canvas/static/js/2.c0c96937.chunk.js",
+    "static/js/2.c0c96937.chunk.js.map": "/draw-canvas/static/js/2.c0c96937.chunk.js.map",
+    "index.html": "/draw-canvas/index.html",
+    "precache-manifest.1ae2ecb964b34bb819cf0193290d98ca.js": "/draw-canvas/precache-manifest.1ae2ecb964b34bb819cf0193290d98ca.js",
+    "service-worker.js": "/draw-canvas/service-worker.js",
+    "static/css/main.7633b595.chunk.css.map": "/draw-canvas/static/css/main.7633b595.chunk.css.map",
+    "static/js/2.c0c96937.chunk.js.LICENSE.txt": "/draw-canvas/static/js/2.c0c96937.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/draw-canvas/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67dfe2c2.js",
+    "static/js/2.c0c96937.chunk.js",
+    "static/css/main.7633b595.chunk.css",
+    "static/js/main.4cbed46b.chunk.js"
+  ]
+}
